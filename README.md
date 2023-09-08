@@ -1,9 +1,48 @@
-
 </p>
 <p align="center">
   <a href="">
     <img alt=Support height="250" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
     </p>
+    
+</p>
+<h1 align="center"> XLICON-MULTIDEVICE (Beta)
+</h1>
+<p align="center"> 
+  Konnichiwaa!! I am a WhatsApp bot create by ProfileCorruptedError and recode by Team XLICON to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  </p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/XLICON-MD/count.svg" /></p>
+
+<p align="left"> 
+  <a href="https://github.com/salmanytofficial/XLICON-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?style=social">
+    
+   <p align="left">
+  <a href="https://github.com/salmanytofficial/XLICON-MD/fork">
+    <img src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?label=Fork&style=social">
+    
+ 
+  <p align="left>
+  <a href="https://github.com/salmanytofficial"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-green.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+
+  
+## Features
+
+- 275+ Awesome Commands
+- 24/7 Support
+- Simple Commands
+- Easy Deploy
+- Anime Themes
+- Best for GroupWorks
+- Make your boring whatsapp fun
+
+
+## Support
+
+For support, email infiniteytff@gmail.com or join our whatsapp group.
+
+
 <p align="center">
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -13,115 +52,91 @@
   </a>
   
 </p>
-<h1 align="center"> XLICON-MULTIDEVICE (Beta)
-</h1>
-<p align="center"> 
-  Konnichiwaa!! I am a WhatsApp bot create by ProfileCorruptedError and recode by Team XLICON to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
-
-   <p align="center"> 
-  <a href="https://github.com/salmanytofficial/XLICON-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?style=social">
-    
-   <p align="center">
-  <a href="https://github.com/salmanytofficial/XLICON-MD/fork">
-    <img src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?label=Fork&style=social">
-    
- 
-  <p align="CENTER">
-  <a href="https://github.com/salmanytofficial"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-green.svg?style=for-the-badge&logo=xcode" /></a>
-</p>
-      <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+XLICON-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE TEAM XLICON ;PUBLIC+RELESED+DATE;2023/08/11; THIS +BOT IS+BASED+FROM; OF SECKTOR-MD;SO FULL+SCRIPT+CREDIT+GOES+TO;TEAM SECKTOR." alt="Typing SVG" /></a>
-  </p>
-  <br>
-
-</p>
 
 
-# ```GIVE A STAR TO THE REPO🌟```
-  
-  # ```Tap Here For Help``` 
-  
-  <p align="center">
-  <a href="https://wa.me/8801853262586?text=Hello%20Slasher~Kun%20sir...%20I%20need%20some%20help%20in%20Xlicon%20md">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  Tap here for contact me on WhatsApp Messenger 
-  </p>
-  <p align="center">
-  <a href="My email: infiniteytff@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
-  
-    My email Adress : infiniteytff@gmail.com
-    
-    
-  
-</p>
-  <a href="https://github.com/salmanytofficial/XLICON-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="80" width="200" /></a>
-  <div>
-<br>
-</p>
+## MONGODB URL
 
-
-
-
-# ```Scan Your Qr From Here```
-
-●. ***[SCAN QR CODE SERVER 1](https://xliconbotme-65e2d86744bc.herokuapp.com/id)***
-  
-●. ***[SCAN QR CODE SERVER 2](https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1)***
-  
- <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=15&pause=1000&color=000000&center=true&width=300&height=50&lines=THERE+ARE 2 SCANNERS ;CHOOSE+ONE OF THEM;TO+SCAN+THE QR ;AND+GET+THE;SESSION-I'D" alt="Typing SVG" /></a>
-  </p>
-  
-  
-  ..........................................................
-   
-# ```EXTERNAL STUFF AND API```
 
 ●.  ***Get a Mongodb urL from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
 
 ●.  ***Get a Mongodb urL from [railway.app](https://railway.app).***
 
-●. ***HEROKU deploy Tutorial [Heroku](https://youtu.be/hH2qZyUjuF4?si=vqpl-caoBSkpcVNH).***
 
-# ```PUBLIC MONGODB URL```
+
+
 ```
 mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority
 ```
-```
-mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
-```
 
-<br><br> 
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `MONGODB_URL` | `string` | **Required**. Your Bot Cannot run without this|
 
-# ```REPLIT DEPLOY TUTORIAL```
+## Installation
 
-***FOLLOW*** These Steps, To Run The Bot On ***REPLIT***
+1.Replit Installation
 
-***First***,Go To Replit Then Import ***XLICON*** From HERE
-
-*Second*** paste this commands in replit shell
+Paste This on the replit shell to run the Bot
 
 ```
 npm install
 ```
-After Installing the Npm
-***Third*** Go To ***Config.js*** And Add These 
-Thing that I'm ***Including*** Here
+
+After this fill the vars by your own information and paste this JSON to your Replit shell
 
 ```
-Owner Number
-Mongodb url
-session id
-open ai api (optional)
-prefix
-alive message
-antilink value
+{
+  "SESSION_ID": "ID-Here",
+  "OWNER_NUMBER": "880xxxxxxxxxx",
+  "OWNER_NAME": "ProfileCorruptedError",
+  "OPENAI_API_KEY": "null",
+  "MONGODB_URI": "required",
+  "PACK_INFO": "Ahil;Xlicon",
+  "PREFIX": "."
+   
+}
 ```
- # ```Deploy METHOD```
- 
- <details close>
+
+
+2.Okteto Installation
+Go to Okteto
+
+
+```
+Login with your github
+Click Launch Dev Environment
+Choose your repo
+```
+
+
+3.Heroku Installation 
+[HEROKU Tutorial](https://youtu.be/hH2qZyUjuF4?si=vqpl-caoBSkpcVNH)
+
+
+4.Deploy On Vps
+[Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-on-vps.md)
+
+
+  ........................................................
+  
+
+
+
+## SCAN QR HERE
+
+
+●. ***[SCAN QR CODE SERVER 1](https://xliconbotme-65e2d86744bc.herokuapp.com/id)***
+  
+●. ***[SCAN QR CODE SERVER 2](https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1)***
+
+  ........................................................
+  
+  
+  ## DEPLOYMENTS
+  
+  
+  
+  <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
  
 <br><br>   
@@ -310,64 +325,20 @@ antilink value
 
 <br>
 
- # ```XLICON MD SUPPORT```
- 
- <details close>
-<summary> JOIN OUR WHATSAPP GROUP AND SUPPORT OUR YOUTUBE CHANNEL</summary>
- 
-<br><br>   
-
-<p align="center"> 
- 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2" target="_blank">
-   
-<img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  </a>
-  
-***<p align="center"> Support us by subscribing our channel </p>***
- 
-   <p align="center">  
-  <a href="https://youtube.com/@s4salmanyt">
-    <img alt="Xlicon docs" height="100" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
-    <h1 align="center">Tap on above Image</h1>
-  </a>
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
 
 
 
-</details>
-
-<br>
+## Authors
 
 
-# ```Warning```:
-    
-- This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
-- We will only assist you in `Bot Deployment ( Installation or Hosting )`. Not in `Bot Development`.
-- If you Modify this bot and face any issues, I am not responsible for that because it's not possible for me or my team to help everyone in bot Development / Modification. Only modify if you know what you are doing.
-- This bot is made for `Educational / Fun / Group Management` purposes only. I and the team will not be responsible for any misuse of this bot.
-- We will only assist you in `Setup / Deployment` of this bot.
+[@ProfileCorruptedError](https://www.github.com/ahil15)
 
-<br><br>
+[@Salmanytofficial](https://www.github.com/salmanytofficial)
 
-# ```Legal Disclaimer```
-
-- We suggest you to use your `Own MongoDB URL` while deploying inside `.env` or `Environment Variables`. That will increase your Privacy and Security.
-- We don't recommend to hardly modify the script. `If you do so, you will be responsible for any issues / bugs and we will not provide any support` as we are also busy in our life.
-- We will not be responsible for any issues caused by any individual hosting this bot and cause any harm to any Group `(So don't make someone Group Admin who you don't know just because they are hosting the Bot)`.
-
-<br><br>
 
 
 </br></br>
-<h1 align="center">  🌟 Spacial Thanks To 🌟
+<h1 align="left">  ✨Spacial Thanks To🎯
 </h1>
 
 * [`🎐 Sampandey`](https://github.com/SamPandey001)
@@ -382,31 +353,40 @@ antilink value
 * [`🎐 XhekSalman`](https://github.com/salmanytofficial)
 
 ---
-<br>
-
-<h2 align="center">TEAM-XLICON
-</h2>
-
- [![SalmanYtOfficial](https://github.com/salmanytofficial.png?size=100)](https://github.com/salmanytofficial)  [![ProfileCorruptedError](https://github.com/ahil15.png?size=100)](https://github.com/ahil15)  [![KALINDU-LK](https://github.com/MR-KALINDU.png?size=100)](https://github.com/MR-KALINDU)  [![SUHAIL TECH ](https://github.com/suhailtechinfo.png?size=100)](https://github.com/suhailtechinfo) [![Mahek-Zubair](https://github.com/Maher-Zubair.png?size=100)](https://github.com/Maher-Zubair) [![Syntax](https://github.com/syntax007.png?size=100)](https://github.com/syntax007) [![TechWithAmee](https://github.com/TechwithAmee1.png?size=100)](https://github.com/TechwithAmee1) [![Diegoson Tech](https://github.com/DiegosonTech.png?size=100)] [![Abhishek](https://github.com/AbhishekSuresh2.png?size=100)](https://github.com/AbhishekSuresh2) [![Mr.Hansamala](https://github.com/mrhansamala.png?size=100)](https://github.com/mrhansamala)
- 
- 
- 
- 
-  </div>
-
-#### ```TOTAL REPO VIEWS```
-
-![Visitor Count](https://profile-counter.glitch.me/XLICON-MD/count.svg)
-
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
-
-- Star the repo IF u like XLICON
 
 </p>
-<h1 align="center"> ☆ Thanks To SuhailTechInfo ☆
+<h1 align="center"> Thanks To SuhailTechInfo 
 </h1>
+ <br><br>
 
 
-## License
 
-The Xlicon made available under the [GPL-3 license](https://github.com/salmanytofficial/XLICON-MD/blob/main/LICENCE). 
+
+
+
+## Legal Disclaimer
+
+- We suggest you to use your `Own MongoDB URL` while deploying inside `.env` or `Environment Variables`. That will increase your Privacy and Security.
+
+
+- We don't recommend to hardly modify the script. `If you do so, you will be responsible for any issues / bugs and we will not provide any support` as we are also busy in our life
+
+- We will not be responsible for any issues caused by any individual hosting this bot and cause any harm to any Group `(So don't make someone Group Admin who you don't know just because they are hosting the Bot)`.
+
+<br><br>
+
+# ```Warning```:
+    
+- This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
+
+- We will only assist you in `Bot Deployment ( Installation or Hosting )`. Not in `Bot Development`.
+
+- If you Modify this bot and face any issues, I am not responsible for that because it's not possible for me or my team to help everyone in bot Development / Modification. Only modify if you know what you are doing.
+
+
+- This bot is made for `Educational / Fun / Group Management` purposes only. I and the team will not be responsible for any misuse of this bot.
+
+
+- We will only assist you in `Setup / Deployment` of this bot.
+
+<br><br>
